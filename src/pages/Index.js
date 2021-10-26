@@ -80,7 +80,7 @@ function Index(props) {
                     placeholder="instructions"
                     onChange={handleChange}
                 /><br />
-                <input type="submit" value="Create Margarita" />
+                <input class="button" type="submit" value="Create Margarita" />
             </form>
             {props.marg ? loaded() : loading()}
         </section>

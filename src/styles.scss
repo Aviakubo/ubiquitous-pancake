@@ -1,3 +1,7 @@
+* {
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
 img {
     max-width: 25%;
     max-height: 300px;
@@ -11,7 +15,7 @@ input {
     margin: 4px;
 }
 
-button {
+input[type=submit] {
     border-radius: 4px;
     background-color: white;
     border: 2px solid red;
@@ -19,7 +23,7 @@ button {
     transition-duration: 0.4s;
 }
 
-button:hover {
+input[type=submit]:hover {
     background-color: red;
     color: white;
 }
