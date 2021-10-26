@@ -6,7 +6,7 @@ import Show from "../pages/Show";
 function Main(props) {
   const [marg, setMarg] = useState(null);
 
-  const URL = "http://localhost:4000/marg/";
+  const URL = "https://dyakubov-react-project.herokuapp.com/marg";
 
   const getMarg = async () => {
     const response = await fetch(URL);
