@@ -5,7 +5,7 @@ function Header(props) {
     <nav className="nav">
       <Link to="/">
         <div>
-            <h1>Seniorita Tequila</h1>
+            <h1>Señorita Tequila</h1>
         </div>
       </Link>
     </nav>
