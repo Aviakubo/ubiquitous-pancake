@@ -4,12 +4,12 @@ A personal app to keep track of just some of my favorite margarita recipes.
 
 ### Technologies Used
 
-*HTML
-*CSS
-*MongoDB
-*Express.js
-*React.js
-*Node.js
+* HTML
+* CSS
+* MongoDB
+* Express.js
+* React.js
+* Node.js
 
 ### Getting Started with Señorita Tequila
 
