@@ -1,6 +1,6 @@
 # Introduction to Señorita Tequila
 
-A personal app to keep track of just some of my favorite margarita recipes
+A personal app to keep track of just some of my favorite margarita recipes. 
 
 ### Technologies Used
 
@@ -14,6 +14,8 @@ Node.js
 ### Getting Started with Señorita Tequila
 
 Feel free to add your own margarita recipes! But these are just a few of my personal favorites.
+
+Here is the link: [Señorita Tequila](https://heuristic-wozniak-213f44.netlify.app/marg/617715a769fb104812c4ca06)
 
 ### Unsolved Problems
 
